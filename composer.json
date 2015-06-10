@@ -1,0 +1,17 @@
+{
+  "name": "jackprice/phpgit",
+  "description": "PHP git library",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jack Price",
+      "email": "jackprice@outlook.com"
+    }
+  ],
+  "autoload": {
+      "psr-4": {
+          "JackPrice\\PhpGit\\": "src/"
+      }
+  }
+}
